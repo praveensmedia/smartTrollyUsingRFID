@@ -1,3 +1,4 @@
+//code written for Arduino-UNO
 #include <SPI.h>                     //to initialize spi communication
 #include <MFRC522.h>                 //to initialize the rfid reader and writer
 #include <LiquidCrystal.h>           //lib file for display
